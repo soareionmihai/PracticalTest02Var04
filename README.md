@@ -1,2 +1,5 @@
 # PracticalTest02Var04
-PracticalTest02Var04 colocviu
+
+Nume: Soare
+Prenume: Ion-Mihai
+Grupa: 341C1
